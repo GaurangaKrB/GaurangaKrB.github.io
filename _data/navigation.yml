@@ -8,26 +8,57 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "About"
+      url: /about/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+      url: /teaching/
+
+  - title: "Writeups"
+      url: /writeups/
+
+  - title: "Projects"
+      url: /projects/
+
+  - title: "Quotes"
+      url: /quotes/
+
+  - title: "Books"
+      url: /books/
+
+  - title: "Sankhya"
+      url: /sankhya/
+
   - title: "CV"
-    url: /cv/
+      url: /cv/
+
+  - title: "Contact-Me"
+      url: /contactme/
+
+  - title: "Photographs"
+      url: /photographs/
+      
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # # - title: "CV"
+  # #   url: /cv-json/
+    
+  # - title: "Guide"
+  #   url: /markdown/
