@@ -2,7 +2,7 @@
 title: "Advanced Math Classes - III (2025-2026)"
 collection: teaching
 type: "Online Course Series"
-permalink: /teaching/2025-advanced-math-classes-3/
+permalink: /teaching/2025-advanced-math-classes-3
 venue: "Online"
 date: 2025-08-01
 location: "Remote"
