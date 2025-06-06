@@ -9,56 +9,58 @@
 
 main:
 
-  - title: "About"
-      url: /about/
-
-  - title: "Teaching"
-      url: /teaching/
-
-  - title: "Writeups"
-      url: /writeups/
-
-  - title: "Projects"
-      url: /projects/
-
-  - title: "Quotes"
-      url: /quotes/
-
-  - title: "Books"
-      url: /books/
-
-  - title: "Sankhya"
-      url: /sankhya/
-
-  - title: "CV"
-      url: /cv/
-
-  - title: "Contact-Me"
-      url: /contactme/
-
-  - title: "Photographs"
-      url: /photographs/
-      
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
+  # - title: "About"
+  #     url: /about/
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #     url: /teaching/
+
+  # - title: "Writeups"
+  #     url: /writeups/
+
+  # - title: "Projects"
+  #     url: /projects/
+
+  # - title: "Quotes"
+  #     url: /quotes/
+
+  # - title: "Books"
+  #     url: /books/
+
+  # - title: "Sankhya"
+  #     url: /sankhya/
+
+  # - title: "CV"
+  #     url: /cv/
+
+  # - title: "Contact-Me"
+  #     url: /contactme/
+
+  # - title: "Photographs"
+  #     url: /photographs/
+
+
+      
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
-  #   url: /cv/
+  #   url: /cv-json/
     
-  # # - title: "CV"
-  # #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
