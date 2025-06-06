@@ -4,7 +4,7 @@ collection: teaching
 type: "Online Course Series"
 permalink: /teaching/2025-cheenta-statistics-classes
 venue: "Cheenta School of Statistics and Data Science"
-date: 2024-01-01
+date: 2024-10-01
 location: "Online"
 ---
 
