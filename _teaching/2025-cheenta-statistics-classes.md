@@ -8,6 +8,7 @@ date: 2024-01-01
 location: "Online"
 ---
 
+This  course will prepare you for the most basic preprequisites required to get yourself started with AI-ML.
 
 ### [Class 1: AM/GM/HM/AGP](https://drive.google.com/file/d/1_YVODqoR0ZXaJ-ZkN7LapuB-nZQe9Ggf/view?usp=sharing)
 
