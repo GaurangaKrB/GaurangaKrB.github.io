@@ -11,7 +11,7 @@ location: "Online"
 
 ### [Class 1: AM/GM/HM/AGP](https://drive.google.com/file/d/1_YVODqoR0ZXaJ-ZkN7LapuB-nZQe9Ggf/view?usp=sharing)
 
-### [Class 2: Polynomials and Binomial Theorem](https://drive.google.com/file/d/CLASS2_ID/view?usp=sharing)
+### [Class 2: Polynomials and Binomial Theorem](https://drive.google.com/file/d/1mMhuUSeMHFFWojL7Kwy5_73uvGRC8rYq/view?usp=sharing)
 
 ### [Class 3: More on Equations](https://drive.google.com/file/d/CLASS3_ID/view?usp=sharing)
 
