@@ -47,22 +47,22 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "GaurangaKrB"
-  kaggle           : # Username  
+  kaggle           : "gaurangakumarbaishya"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : "gaurangakrb.bsky.social" # Replace this with you Bluesky username
+  facebook         : "gauranga.baishya.5"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "gaurangakrb"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "gauranga-kumar-baishya-4a12731ba"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "gaurangabaishya15"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -101,7 +101,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
