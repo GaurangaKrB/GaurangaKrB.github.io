@@ -4,7 +4,7 @@ collection: teaching
 type: "Online Course Series"
 permalink: /teaching/2025-advanced-math-classes-3
 venue: "Online"
-date: 2025-08-01
+date: 2025-05-07
 location: "Remote"
 ---
 
