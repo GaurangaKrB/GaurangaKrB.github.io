@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-### 
+Welcome! I am a researcher in the fields of Artificial Intelligence and Machine Learning. My academic journey includes pursuing the Online BS Degree in Data Science and Applications from IIT Madras. I transitioned from the graduate program in Mathematics at IIT Kharagpur to complete my Master’s degree in Data Science at the prestigious Chennai Mathematical Institute (CMI), graduating in 2025.
 
-Welcome! I am currently working in the field of AI and ML. I have been a part of the (online) BS degree in Data Sciences and its Applications from IIT Madras. I dropped out of the graduate program in Mathematics from IIT Kharagpur to join the M.Sc. Data Science program at Chennai Mathematical Institute (CMI) from where I graduated in 2025. I received the prestigious [Khorana Scholarship](https://iusstf.org/khorana-program-for-scholars) from Dept. of Biotechnology, Govt. Of India in 2024 and I used this scholarship to spend my summer at Harvard Medical School to work with [Prof. Yu-Hua Tseng](https://yhtsenglab.org/).
+In 2024, I was honored to receive the distinguished [Khorana Scholarship](https://iusstf.org/khorana-program-for-scholars) from the Department of Biotechnology, Government of India. Leveraging this scholarship, I had the incredible opportunity to conduct summer research at Harvard Medical School under the mentorship of [Prof. Yu-Hua Tseng](https://yhtsenglab.org/).
 
-### 
+Outside my professional pursuits, I cherish diverse intellectual and recreational activities. I enjoy immersing myself in insightful literature, particularly biographies and autobiographies. cinematic arts (especially dramatic narratives), Chess, puzzle-solving, competitive programming, and engaging discussions on mathematics are among my favorite pastimes.
 
-During my free time I would love to read some amazing books, play a game of chess, teach math to a friend, solve puzzles, do some competitive coding, or watch a movie (preferably dramas). I love reading nonfiction (mostly biographies/autobiographies). I love traveling, doing photography and sketching or writing philosophical/biographical articles. If you are interested, go to my [blogs](https://gaurangakrb.github.io/year-archive/) section.
+My creative interests extend to travel, photography, sketching, and writing philosophical and biographical articles. You can explore more of my thoughts and experiences in the [blogs](https://gaurangakrb.github.io/year-archive/) section.
 
-### 
-
-Feel free to ping me on any one of the social media handles if you are interested in exchanging ideas.
+I am always eager to connect, exchange ideas, and collaborate. Please feel free to reach out through any of my social media platforms.
