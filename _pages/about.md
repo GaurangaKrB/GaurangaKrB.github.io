@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to My Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a researcher in the fields of Artificial Intelligence and Machine Learning. My academic journey includes pursuing the Online BS Degree in Data Science and Applications from IIT Madras. I transitioned from the graduate program in Mathematics at IIT Kharagpur to complete my Master’s degree in Data Science at the prestigious Chennai Mathematical Institute (CMI), graduating in 2025.
+I am a researcher in the fields of Artificial Intelligence and Machine Learning. My academic journey includes pursuing the Online BS Degree in Data Science and Applications from IIT Madras. I transitioned from the graduate program in Mathematics at IIT Kharagpur to complete my Master’s degree in Data Science at the prestigious Chennai Mathematical Institute (CMI), graduating in 2025.
 
 In 2024, I was honored to receive the distinguished [Khorana Scholarship](https://iusstf.org/khorana-program-for-scholars) from the Department of Biotechnology, Government of India. Leveraging this scholarship, I had the incredible opportunity to conduct summer research at Harvard Medical School under the mentorship of [Prof. Yu-Hua Tseng](https://yhtsenglab.org/).
 
