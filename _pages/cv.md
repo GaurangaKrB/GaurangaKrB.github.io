@@ -11,7 +11,7 @@ redirect_from:
 
 <style>
   .pdf-container {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 1.5rem auto;
     height: 75vh;
     overflow-y: auto;
@@ -53,5 +53,10 @@ redirect_from:
   <a href="javascript:window.print()">Print CV</a>
 </div>
 
-![My CV]({{ '/assets/cv_long.jpg' | relative_url }})
+<img
+  src="{{ '/assets/cv_long.jpg' | relative_url }}"
+  alt="My CV"
+  style="display:block; width:1200px; max-width:100%; height:auto; margin:1.5rem auto;"
+/>
+
 
