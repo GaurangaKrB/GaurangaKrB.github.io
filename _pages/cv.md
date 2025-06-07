@@ -56,7 +56,7 @@ redirect_from:
 <img
   src="{{ '/assets/cv_long.jpg' | relative_url }}"
   alt="My CV"
-  style="display:block; width:1500px; max-width:100%; height:auto; margin:1.5rem auto;"
+  style="display:block; width:2000px; max-width:100%; height:auto; margin:1.5rem auto;"
 />
 
 
