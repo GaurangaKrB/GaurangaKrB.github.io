@@ -9,34 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- 1) Prevent user zooming on mobile -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
 <style>
-  /* 2) Full-screen, no page margins */
+  /* Restrict to your content column and give it some breathing room */
   .pdf-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    overflow-y: auto;   /* vertical scroll only */
-    overflow-x: hidden; /* hide any horizontal scroll */
-    margin: 0;
-    padding: 0;
+    max-width: 760px;        /* roughly your site's text column width */
+    margin: 1.5rem auto;     /* center and vertical spacing */
+    height: 75vh;            /* 75% of viewport height */
+    overflow-y: auto;        /* vertical scroll only */
+    overflow-x: hidden;      
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
   }
 
-  /* 3) Remove any iframe borders and force block layout */
   .pdf-container iframe {
-    display: block;
     width: 100%;
     height: 100%;
     border: none;
-  }
-
-  /* 4) Disable pinch-zoom on touch devices (horizontal only) */
-  html, body {
-    touch-action: pan-y;
+    display: block;
   }
 </style>
 
