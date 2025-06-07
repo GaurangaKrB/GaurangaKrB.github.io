@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-![My CV]({{ '/assets/cv_transparent.png' | relative_url }})
+![My CV]({{ '/assets/cv_long.jpg' | relative_url }})
 
