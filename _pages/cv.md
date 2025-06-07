@@ -47,7 +47,6 @@ redirect_from:
 </style>
 
 <div class="cv-buttons">
-  <a href="{{ '/assets/cv_tall.jpg' | relative_url }}" download>Download as JPG</a>
   {% if site.static_files | where: "path", "/assets/cv.pdf" | size > 0 %}
     <a href="{{ '/assets/cv.pdf' | relative_url }}" download>Download as PDF</a>
   {% endif %}
