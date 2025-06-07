@@ -10,8 +10,6 @@ location: "Remote"
 
 This is the 3rd of my “Advanced Math Classes” series. I am helping Madrik prepare for the wonderful world of Math Olympiads. He is from Guwahati, Assam.
 
-## 
-
 The ones in square brackets are for reading (recommended)
 
 -   Lec 1.1   Introduction to the Principle of Mathematical Induction - 1 \[[notes](https://drive.google.com/file/d/1furyOTZp3Sk9a0VypDzVsmeVenUgZDRe/view?usp=sharing), [PMI-NCERT (introductory)](https://drive.google.com/file/d/1SmiTV3nrtO-Bou7brVgjC8GxiYVmGu2V/view?usp=sharing)\]
