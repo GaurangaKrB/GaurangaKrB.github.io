@@ -12,7 +12,7 @@ redirect_from:
 <style>
   /* Restrict to your content column and give it some breathing room */
   .pdf-container {
-    max-width: 760px;        /* roughly your site's text column width */
+    max-width: 1000px;        /* roughly your site's text column width */
     margin: 1.5rem auto;     /* center and vertical spacing */
     height: 75vh;            /* 75% of viewport height */
     overflow-y: auto;        /* vertical scroll only */
