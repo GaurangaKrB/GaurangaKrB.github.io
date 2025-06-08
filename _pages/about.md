@@ -34,18 +34,12 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
     border-bottom: none;
   }
 
-  /* date on the left */
+  /* date on the left: inherits theme text color, then mutes via opacity */
   .news-item time {
     flex: 0 0 120px;
-    color: #555;          /* charcoal in light mode */
+    color: currentColor;
+    opacity: 0.6;
     font-weight: bold;
-  }
-
-  /* lighten date in dark mode */
-  @media (prefers-color-scheme: dark) {
-    .news-item time {
-      color: rgba(255, 255, 255, 0.7);
-    }
   }
 
   /* content on the right */
