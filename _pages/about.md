@@ -7,40 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Put this wherever you want the quote to appear -->
 <blockquote class="hero-quote">
-  “The greater danger for most of us lies not in setting our aim too high and falling short;  
-  but in setting our aim too low, and achieving our mark.”
+  “The greater danger for most of us lies not in setting our aim too high  
+  and falling short; but in setting our aim too low, and achieving our mark.”
   <footer>― Michelangelo Buonarroti</footer>
 </blockquote>
 
 <style>
   .hero-quote {
-    max-width: 800px;           /* prevent it from getting too wide */
-    margin: 4rem auto;          /* centered with vertical breathing room */
-    font-size: 2.5rem;          /* big text */
-    line-height: 1.3;           /* comfortable reading */
-    font-style: italic;         /* classic quote style */
-    text-align: center;         /* center the text block */
-    color: #222;                /* dark gray on light bg */
-  }
-  .hero-quote footer {
-    margin-top: 1rem;
-    font-size: 1.2rem;          /* smaller author credit */
-    font-style: normal;
-    font-weight: 500;
-    text-align: right;          /* align the credit to the right */
-    color: #555;
+    max-width: 600px;               /* narrower for readability */
+    margin: 3rem auto;              /* vertical space + centered */
+    padding-left: 1rem;             /* space for the border */
+    font-size: 1.8rem;              /* large but not overwhelming */
+    line-height: 1.4;               /* comfortable linespacing */
+    font-style: italic;             /* keeps the “quote” feel */
+    color: currentColor;            /* adapts to light/dark mode */
+    border-left: 4px solid #007acc; /* accent color on the left */
   }
 
-  /* Responsive down-scale on small screens */
+  .hero-quote footer {
+    margin-top: 1rem;
+    font-size: 1rem;                /* smaller author line */
+    font-style: normal;             /* remove italic for credit */
+    font-weight: 500;
+    color: currentColor;
+    opacity: 0.75;                  /* a bit muted */
+    text-align: left;               /* align to the main text */
+  }
+
+  /* Responsive down-scale on mobile */
   @media (max-width: 600px) {
     .hero-quote {
-      font-size: 1.8rem;
+      font-size: 1.4rem;
       margin: 2rem auto;
     }
     .hero-quote footer {
-      font-size: 1rem;
+      font-size: 0.9rem;
     }
   }
 </style>
