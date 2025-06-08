@@ -74,9 +74,13 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="news-item">
     <time datetime="2025-05-07">May 07, 2025</time>
     <div class="news-content">
-      {% markdown %}
-        Started working in two independent projects. One with [Dr. Raghav Kulkarni](https://scholar.google.co.in/citations?                             user=Ip1c2OcAAAAJ&hl=en) in computational psychology & one with [Prof. Surajit Sen](https://surajitray.org/) in Causal inference in             medical imaging.
-      {% endmarkdown %}
+      Started working in two independent projects. One with 
+      <a href="https://scholar.google.co.in/citations?user=Ip1c2OcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        Dr. Raghav Kulkarni
+      </a> in computational psychology &amp; one with 
+      <a href="https://surajitray.org/" target="_blank" rel="noopener">
+        Prof. Surajit Sen
+      </a> in Causal inference in medical imaging.
     </div>
   </li>
   <li class="news-item">
