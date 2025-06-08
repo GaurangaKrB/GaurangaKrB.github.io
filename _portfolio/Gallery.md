@@ -74,7 +74,7 @@ permalink: /portfolio/gallery/
   <h2>Oct 2023</h2>
   <div class="gallery-grid">
     <figure>
-      <img src="{{ '/images/gallery/inno3.jpg' | relative_url }}" alt="Event 3">
+      <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
       <figcaption>Ganit Mela</figcaption>
     </figure>
     <!-- … -->
