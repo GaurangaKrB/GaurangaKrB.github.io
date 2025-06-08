@@ -16,45 +16,30 @@ Outside my professional pursuits, I cherish diverse intellectual and recreationa
 I am always eager to connect, exchange ideas, and collaborate. Please feel free to reach out through any of my social media platforms.
 
 <style>
-  /* news-feed container */
   .news-list {
     list-style: none;
     padding: 0;
-    margin: 2rem 0;
+    margin: 1.5rem 0;
   }
-  /* each news item */
   .news-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #ddd;
     display: flex;
-    align-items: flex-start;
-    border-bottom: 1px solid #e0e0e0;
-    padding: 1rem 0;
+    align-items: baseline;
   }
   .news-item:last-child {
     border-bottom: none;
   }
-  /* date on the left */
-  .news-item time {
-    flex: 0 0 120px;
-    color: #555;
-    font-weight: bold;
+  .news-date {
+    width: 100px;
+    color: #777;
+    font-size: 0.9rem;
+    font-weight: 500;
   }
-  /* content on the right */
-  .news-content {
+  .news-text {
     flex: 1;
-  }
-  .news-content a {
-    font-size: 1.05rem;
-    font-weight: 600;
-    color: #007acc;
-    text-decoration: none;
-  }
-  .news-content a:hover {
-    text-decoration: underline;
-  }
-  .news-content p {
-    margin: 0.25rem 0 0;
+    font-size: 1rem;
     color: #333;
-    font-size: 0.95rem;
   }
 </style>
 
@@ -62,21 +47,15 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 
 <ul class="news-list">
   <li class="news-item">
-    <time datetime="2025-06-08">June 08, 2025</time>
-    <div class="news-content">
-      Launched my new AI grant project on Mycobacterium compensatory mutations.
-    </div>
+    <span class="news-date">June 8, 2025</span>
+    <span class="news-text">Launched new AI grant project on Mycobacterium compensatory mutations.</span>
   </li>
   <li class="news-item">
-    <time datetime="2025-05-27">May 27, 2025</time>
-    <div class="news-content">
-      Published a tutorial on the Rasta cipher C++ analysis.
-    </div>
+    <span class="news-date">May 27, 2025</span>
+    <span class="news-text">Published a tutorial on the Rasta cipher C++ analysis.</span>
   </li>
   <li class="news-item">
-    <time datetime="2025-05-14">May 14, 2025</time>
-    <div class="news-content">
-      Integrated a PET/CT lesion-segmentation pipeline into my research workflow.
-    </div>
+    <span class="news-date">May 14, 2025</span>
+    <span class="news-text">Integrated a PET/CT lesion-segmentation pipeline into my research workflow.</span>
   </li>
 </ul>
