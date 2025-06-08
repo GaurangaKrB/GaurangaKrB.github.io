@@ -120,7 +120,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
         Dr. Raghav Kulkarni
       </a> in computational psychology &amp; one with 
       <a href="https://surajitray.org/" target="_blank" rel="noopener">
-        Prof. Surajit Sen
+        Prof. Surajit Ray
       </a> in Causal inference in medical imaging.
     </div>
   </li>
