@@ -1,6 +1,6 @@
 ---
 title: "'Quotes'"
-excerpt: "Some Quotations I love"
+excerpt: "A collection of quotes I love"
 collection: portfolio
 ---
 
