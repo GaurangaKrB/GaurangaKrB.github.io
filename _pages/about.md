@@ -68,19 +68,19 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   <li class="news-item">
     <time datetime="2025-06-08">June 08, 2025</time>
     <div class="news-content">
-      Launched my new AI grant project on Mycobacterium compensatory mutations.
+      Will be joining TCS Research.
     </div>
   </li>
   <li class="news-item">
-    <time datetime="2025-05-27">May 27, 2025</time>
+    <time datetime="2025-05-07">May 07, 2025</time>
     <div class="news-content">
-      Published a tutorial on the Rasta cipher C++ analysis.
+      Started working in two independent projects. One with [Dr. Raghav Kulkarni](https://scholar.google.co.in/citations?user=Ip1c2OcAAAAJ&hl=en) in computational psychology & one with [Prof. Surajit Sen](https://surajitray.org/) in Causal inference in medical imaging 
     </div>
   </li>
   <li class="news-item">
-    <time datetime="2025-05-14">May 14, 2025</time>
+    <time datetime="2025-05-03">April 05, 2025</time>
     <div class="news-content">
-      Integrated a PET/CT lesion-segmentation pipeline into my research workflow.
+      Appereared for the last exam of my Masters Degree.
     </div>
   </li>
 </ul>
