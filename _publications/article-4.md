@@ -9,3 +9,5 @@ paperurl: 'http://gaurangakrb.github.io/files/LAA report.pdf'
 slidesurl: 'http://gaurangakrb.github.io/files/LAA slides.pdf'
 citation: 'LAA, Sem-II, CMI, M.Sc. Data Science 2023-2025'
 ---
+
+A python notebook is available at: [code](https://github.com/GaurangaKrB/CMI-MSc-Data-Science/blob/main/Sem2/LAA/Project/plot_ncut.ipynb)
