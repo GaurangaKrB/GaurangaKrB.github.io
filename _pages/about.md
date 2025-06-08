@@ -16,32 +16,39 @@ Outside my professional pursuits, I cherish diverse intellectual and recreationa
 I am always eager to connect, exchange ideas, and collaborate. Please feel free to reach out through any of my social media platforms.
 
 <style>
-  /* Container reset */
+  /* News list reset */
   .news-list {
     list-style: none;
     margin: 2rem 0;
     padding: 0;
+    max-width: 800px;        /* constrain for readability */
   }
 
-  /* Each item gets vertical breathing room */
+  /* Each item as a two-column grid */
   .news-item {
-    margin-bottom: 1.5rem;
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    column-gap: 1rem;
+    align-items: start;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .news-item:last-child {
+    border-bottom: none;
   }
 
-  /* Date in muted tone, small caps feel */
+  /* Date styling */
   .news-date {
-    display: block;
     font-size: 0.9rem;
-    font-variant: small-caps;
-    color: rgba(255,255,255,0.6); /* for dark mode; in light mode it'll be subtle too */
+    font-weight: 600;
+    color: #555;
   }
 
-  /* Main text, slightly larger, normal weight */
-  .news-text {
-    margin: 0.25rem 0 0;
+  /* Content styling */
+  .news-content {
     font-size: 1rem;
-    color: inherit; /* follows your theme’s text color */
-    line-height: 1.4;
+    color: #222;
+    line-height: 1.5;
   }
 </style>
 
@@ -49,20 +56,20 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 
 <ul class="news-list">
   <li class="news-item">
-    <time class="news-date">June 8, 2025</time>
-    <div class="news-text">
+    <time class="news-date" datetime="2025-06-08">June 8, 2025</time>
+    <div class="news-content">
       Launched new AI grant project on Mycobacterium compensatory mutations.
     </div>
   </li>
   <li class="news-item">
-    <time class="news-date">May 27, 2025</time>
-    <div class="news-text">
+    <time class="news-date" datetime="2025-05-27">May 27, 2025</time>
+    <div class="news-content">
       Published a tutorial on the Rasta cipher C++ analysis.
     </div>
   </li>
   <li class="news-item">
-    <time class="news-date">May 14, 2025</time>
-    <div class="news-text">
+    <time class="news-date" datetime="2025-05-14">May 14, 2025</time>
+    <div class="news-content">
       Integrated a PET/CT lesion-segmentation pipeline into my research workflow.
     </div>
   </li>
