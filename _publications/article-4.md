@@ -7,4 +7,5 @@ excerpt: 'This project work is based on the paper titled Normalized Cuts and Ima
 date: 2024-01-15
 paperurl: 'http://gaurangakrb.github.io/files/LAA report.pdf'
 slidesurl: 'http://gaurangakrb.github.io/files/LAA slides.pdf'
+citation: 'LAA, Sem-II, CMI, M.Sc. Data Science 2023-2025'
 ---
