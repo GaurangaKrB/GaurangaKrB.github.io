@@ -7,6 +7,45 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Put this wherever you want the quote to appear -->
+<blockquote class="hero-quote">
+  “The greater danger for most of us lies not in setting our aim too high and falling short;  
+  but in setting our aim too low, and achieving our mark.”
+  <footer>― Michelangelo Buonarroti</footer>
+</blockquote>
+
+<style>
+  .hero-quote {
+    max-width: 800px;           /* prevent it from getting too wide */
+    margin: 4rem auto;          /* centered with vertical breathing room */
+    font-size: 2.5rem;          /* big text */
+    line-height: 1.3;           /* comfortable reading */
+    font-style: italic;         /* classic quote style */
+    text-align: center;         /* center the text block */
+    color: #222;                /* dark gray on light bg */
+  }
+  .hero-quote footer {
+    margin-top: 1rem;
+    font-size: 1.2rem;          /* smaller author credit */
+    font-style: normal;
+    font-weight: 500;
+    text-align: right;          /* align the credit to the right */
+    color: #555;
+  }
+
+  /* Responsive down-scale on small screens */
+  @media (max-width: 600px) {
+    .hero-quote {
+      font-size: 1.8rem;
+      margin: 2rem auto;
+    }
+    .hero-quote footer {
+      font-size: 1rem;
+    }
+  }
+</style>
+
+
 I am a researcher in AI and ML. My primary research areas include Causal AI, RL, and Gen AI. Additionally, I apply ML methodologies to interdisciplinary problems across Computational Biology, Public Health, Computational Linguistics (e.g., Psychology).
 
 I transitioned from the graduate program in Mathematics at IIT Kharagpur to complete my Master’s degree in Data Science at the Chennai Mathematical Institute (CMI), graduating in 2025. In 2024, I was honored to receive the [Khorana Scholarship](https://iusstf.org/khorana-program-for-scholars) to spend my summer at Harvard Medical School under the mentorship of [Prof. Yu-Hua Tseng](https://yhtsenglab.org/).
