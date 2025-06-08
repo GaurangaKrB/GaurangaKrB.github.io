@@ -56,7 +56,6 @@ main:
     
   - title: "CV"
     url: "/assets/cv.pdf"
-    new_tab: true
 
   # - title: "CV"
   #   url: /cv-json/
