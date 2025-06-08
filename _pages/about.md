@@ -16,30 +16,32 @@ Outside my professional pursuits, I cherish diverse intellectual and recreationa
 I am always eager to connect, exchange ideas, and collaborate. Please feel free to reach out through any of my social media platforms.
 
 <style>
+  /* Container reset */
   .news-list {
     list-style: none;
+    margin: 2rem 0;
     padding: 0;
-    margin: 1.5rem 0;
   }
+
+  /* Each item gets vertical breathing room */
   .news-item {
-    padding: 0.75rem 0;
-    border-bottom: 1px solid #ddd;
-    display: flex;
-    align-items: baseline;
+    margin-bottom: 1.5rem;
   }
-  .news-item:last-child {
-    border-bottom: none;
-  }
+
+  /* Date in muted tone, small caps feel */
   .news-date {
-    width: 100px;
-    color: #777;
+    display: block;
     font-size: 0.9rem;
-    font-weight: 500;
+    font-variant: small-caps;
+    color: rgba(255,255,255,0.6); /* for dark mode; in light mode it'll be subtle too */
   }
+
+  /* Main text, slightly larger, normal weight */
   .news-text {
-    flex: 1;
+    margin: 0.25rem 0 0;
     font-size: 1rem;
-    color: #333;
+    color: inherit; /* follows your theme’s text color */
+    line-height: 1.4;
   }
 </style>
 
@@ -47,15 +49,21 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
 
 <ul class="news-list">
   <li class="news-item">
-    <span class="news-date">June 8, 2025</span>
-    <span class="news-text">Launched new AI grant project on Mycobacterium compensatory mutations.</span>
+    <time class="news-date">June 8, 2025</time>
+    <div class="news-text">
+      Launched new AI grant project on Mycobacterium compensatory mutations.
+    </div>
   </li>
   <li class="news-item">
-    <span class="news-date">May 27, 2025</span>
-    <span class="news-text">Published a tutorial on the Rasta cipher C++ analysis.</span>
+    <time class="news-date">May 27, 2025</time>
+    <div class="news-text">
+      Published a tutorial on the Rasta cipher C++ analysis.
+    </div>
   </li>
   <li class="news-item">
-    <span class="news-date">May 14, 2025</span>
-    <span class="news-text">Integrated a PET/CT lesion-segmentation pipeline into my research workflow.</span>
+    <time class="news-date">May 14, 2025</time>
+    <div class="news-text">
+      Integrated a PET/CT lesion-segmentation pipeline into my research workflow.
+    </div>
   </li>
 </ul>
