@@ -22,6 +22,7 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
     padding: 0;
     margin: 2rem 0;
   }
+
   /* each news item */
   .news-item {
     display: flex;
@@ -32,12 +33,21 @@ I am always eager to connect, exchange ideas, and collaborate. Please feel free 
   .news-item:last-child {
     border-bottom: none;
   }
+
   /* date on the left */
   .news-item time {
     flex: 0 0 120px;
-    color: #555;
+    color: #555;          /* charcoal in light mode */
     font-weight: bold;
   }
+
+  /* lighten date in dark mode */
+  @media (prefers-color-scheme: dark) {
+    .news-item time {
+      color: rgba(255, 255, 255, 0.7);
+    }
+  }
+
   /* content on the right */
   .news-content {
     flex: 1;
