@@ -63,10 +63,6 @@ permalink: /portfolio/gallery/
       <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
       <figcaption>Me teaching Advik at Boston, US</figcaption>
     </figure>
-    <figure>
-      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 2">
-      <figcaption>Me teaching Advik at Boston, US</figcaption>
-    </figure>
     <!-- more figures… -->
   </div>
 
