@@ -48,9 +48,17 @@ permalink: /portfolio/gallery/
   .gallery-grid figcaption {
     padding: 0.5rem;
     font-size: 0.9rem;
-    color: #555;
+    color: #222;
     text-align: center;
-    background: var(--color-canvas-default);
+    background: rgba(255,255,255,0.85);
+  }
+  
+  /* Dark‐mode override: dark background + light text */
+  @media (prefers-color-scheme: dark) {
+    .gallery-grid figcaption {
+      background: rgba(0,0,0,0.7);
+      color: #eee;
+    }
   }
 </style>
 
