@@ -87,7 +87,7 @@ permalink: /portfolio/gallery/
     </figure>
     <figure>
       <img src="{{ '/images/gallery/harvard.jpg' | relative_url }}" alt="Event 4">
-      <figcaption>At MIT, USA</figcaption>
+      <figcaption>At Harvard Medical School, USA</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 4">
