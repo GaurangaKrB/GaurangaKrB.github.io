@@ -64,18 +64,7 @@ permalink: /portfolio/gallery/
 
 <div class="gallery-timeline">
 
- 
-  <!-- June 2025 -->
-  <h2>June 2024</h2>
-  <div class="gallery-grid">
-    <figure>
-      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
-      <figcaption>Me teaching Advik at Boston, US</figcaption>
-    </figure>
-    <!-- more figures… -->
-  </div>
-
-  <h2>May 2024</h2>
+  <h2>May - July 2024</h2>
   <div class="gallery-grid">
     <figure>
       <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
@@ -92,6 +81,10 @@ permalink: /portfolio/gallery/
     <figure>
       <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 4">
       <figcaption>At MIT, USA</figcaption>
+    </figure>
+    <figure>
+      <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
+      <figcaption>Me teaching Advik at Boston, US</figcaption>
     </figure>
     <!-- … -->
   </div>
