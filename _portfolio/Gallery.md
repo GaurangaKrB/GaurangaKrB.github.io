@@ -64,6 +64,7 @@ permalink: /portfolio/gallery/
 
 <div class="gallery-timeline">
 
+ 
   <!-- June 2025 -->
   <h2>June 2024</h2>
   <div class="gallery-grid">
@@ -74,22 +75,21 @@ permalink: /portfolio/gallery/
     <!-- more figures… -->
   </div>
 
+  <h2>May 2024</h2>
+  <div class="gallery-grid">
+    <figure>
+      <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
+      <figcaption>At MIT, USA</figcaption>
+    </figure>
+    <!-- … -->
+  </div>
+
   <!-- May 2025 -->
   <h2>Oct 2023</h2>
   <div class="gallery-grid">
     <figure>
       <img src="{{ '/images/gallery/inno.jpg' | relative_url }}" alt="Event 3">
       <figcaption>Ganit Mela</figcaption>
-    </figure>
-    <!-- … -->
-  </div>
-
-  <!-- April 2025 -->
-  <h2>May 2024</h2>
-  <div class="gallery-grid">
-    <figure>
-      <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
-      <figcaption>At MIT, USA</figcaption>
     </figure>
     <!-- … -->
   </div>
