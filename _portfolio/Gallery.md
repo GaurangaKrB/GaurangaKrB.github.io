@@ -68,19 +68,19 @@ permalink: /portfolio/gallery/
   <div class="gallery-grid">
     <figure>
       <img src="{{ '/images/gallery/profile.png' | relative_url }}" alt="Event 4">
-      <figcaption>At MIT, USA</figcaption>
+      <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/new york.jpg' | relative_url }}" alt="Event 4">
-      <figcaption>At New York, USA (from the 93rd floor)</figcaption>
+      <figcaption>@ New York (93rd floor)</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/harvard.jpg' | relative_url }}" alt="Event 4">
-      <figcaption>At Harvard Medical School, USA</figcaption>
+      <figcaption>@ Harvard Medical School</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/mit_.jpg' | relative_url }}" alt="Event 4">
-      <figcaption>At MIT, USA</figcaption>
+      <figcaption>@ MIT</figcaption>
     </figure>
     <figure>
       <img src="{{ '/images/gallery/advik.jpg' | relative_url }}" alt="Event 1">
